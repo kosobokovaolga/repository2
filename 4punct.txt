@@ -1,8 +1,8 @@
-1. Установить git: https://git-scm.com/downloads
-2. # создать папку и производить все действия в этой папке
-3. git init
-4. # создать файл
-5. git add /path/to/file.txt
++1. Установить git: https://git-scm.com/downloads
++2. # создать папку и производить все действия в этой папке
++3. git init
++4. # создать файл
++5. git add /path/to/file.txt
 6. git commit -m“Add file”
 7. #здесь скорее всего придется инициализировать параметры git
 config, читайте консоль, все написано
